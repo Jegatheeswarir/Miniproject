@@ -35,7 +35,7 @@ Visual Studio Code (VS Code) for coding, debugging, and project management.
 
 ## System Architecture
 
-<img width="1024" height="1024" alt="arch" src="https://github.com/user-attachments/assets/b9d89a53-b969-4776-aee4-dfd1e698299b" />
+<img width="757" height="610" alt="image" src="https://github.com/user-attachments/assets/d794297e-615c-4b1b-85fe-fb97f5640ec6" />
 
 ## Output
 #### Output1 - Home Page

@@ -38,11 +38,11 @@ Visual Studio Code (VS Code) for coding, debugging, and project management.
 <img width="757" height="610" alt="image" src="https://github.com/user-attachments/assets/d794297e-615c-4b1b-85fe-fb97f5640ec6" />
 
 ## Output
-#### Output1 - Home Page
+### Output1 - Home Page
 
 <img width="1285" height="834" alt="Screenshot 2025-12-25 145757" src="https://github.com/user-attachments/assets/42604344-8f7d-4380-bd58-d92150e73531" />
 
-#### Output2 - Feature Workflow
+### Output2 - Feature Workflow
 <img width="1589" height="1760" alt="virtual_beauty_studio_steps_combined" src="https://github.com/user-attachments/assets/2542f724-3660-45f5-9e4a-a61b6481f5b2" />
 
 ### Output3 -Get Started with Your Virtual Beauty Experience
